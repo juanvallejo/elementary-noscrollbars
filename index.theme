@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=elementary-custom
+Comment=elementary desktop custom theme
+Encoding=UTF-8
+
+Name[en_US]=elementary-custom
+
+[X-GNOME-Metatheme]
+GtkTheme=elementary-custom
+MetacityTheme=elementary
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
